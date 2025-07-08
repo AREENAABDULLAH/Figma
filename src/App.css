@@ -9,6 +9,7 @@
   background-color: #ffffff;
   padding: 20px;
   border-right: 1px solid #e5e7eb;
+  font-family: 'Poppins', sans-serif;
 }
 
 .sidebar .logo {
@@ -27,6 +28,7 @@
 .logo-text {
   display: flex;
   flex-direction: column;
+  font-family: 'Poppins', sans-serif;
 }
 
 .logo-text span {
@@ -35,6 +37,7 @@
   color: #111827;
   line-height: 1;
   text-transform: lowercase;
+  font-family: 'Poppins', sans-serif;
 }
 
 .logo-text em {
@@ -44,6 +47,7 @@
   color: #111827;
   line-height: 1;
   margin-left: 40px;
+  font-family: 'Poppins', sans-serif;
 }
 
 .sidebar .menu ul {
@@ -66,6 +70,7 @@
   color: #4b5563;
   font-weight: 500;
   transition: background-color 0.3s, color 0.3s;
+  font-family: 'Poppins', sans-serif;
 }
 
 .sidebar .menu li a:hover {
